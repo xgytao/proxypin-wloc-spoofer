@@ -1,6 +1,10 @@
 <h1 align="center">ProxyPin WLOC Response Rewriter</h1>
 
 <p align="center">
+  <img src="assets/cover.svg" alt="ProxyPin WLOC Response Rewriter cover">
+</p>
+
+<p align="center">
   <a href="README.zh-CN.md">中文文档</a> · English
 </p>
 
