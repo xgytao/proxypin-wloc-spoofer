@@ -71,6 +71,8 @@ You need:
 
 Use the script locally in ProxyPin. Do not rely on a remote script URL.
 
+Chinese step-by-step tutorial with screenshots: [ProxyPin WLOC tutorial](docs/zh-CN/tutorial.md).
+
 1. Open `proxypin_wloc_compat_v2.js`.
 2. Copy the full script content.
 3. In ProxyPin, create a new local script.
