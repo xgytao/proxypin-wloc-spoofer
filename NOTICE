@@ -1,0 +1,8 @@
+This project embeds pako 2.1.0 for gzip decompression.
+
+pako is licensed under the MIT license:
+https://github.com/nodeca/pako
+
+The embedded header in proxypin_wloc_compat_v2.js is:
+
+/*! pako 2.1.0 https://github.com/nodeca/pako @license (MIT AND Zlib) */

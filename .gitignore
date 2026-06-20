@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+*.har
+*.mobileconfig
+*.pem
+*.key
+*.sqlite
+*.zip
