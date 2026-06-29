@@ -196,6 +196,18 @@ X-WLOC-Patched-Locations: 大于 0
 
 如果 `X-WLOC-Patched-Locations` 大于 0，说明脚本已经成功修改 WLOC 响应中的定位结果。
 
+## 更新日志
+
+### v5.4.2 - 2026-06-30
+
+- 新增 `proxypin-scripts.json`，可直接导入 ProxyPin，无需手动复制长脚本。
+- 新增 `https://www.baidu.com/` 选点页面，抓包开启后会被脚本替换为 WLOC Location Picker。
+- 选点页面支持 Leaflet 地图点击选点、`Use GPS` 获取当前位置、`Save` 保存坐标。
+- 坐标保存到 ProxyPin `context.session`，后续 WLOC 响应自动使用保存的坐标。
+- 默认底图改为 ArcGIS WGS84，并提供 Satellite 和 OSM 图层切换。
+- 修复 Leaflet CSS 加载慢或失效时可能出现的瓦片错位问题。
+- 更新 README 和图文教程，加入选点页面截图和新的使用流程。
+
 ## 常见问题
 
 ### 看不到 WLOC 请求
