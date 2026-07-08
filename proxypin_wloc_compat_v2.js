@@ -5,7 +5,7 @@
 var WLOC_PICKER_HOST = "www.baidu.com";
 var WLOC_SESSION_KEY = "wlocTargetLocation";
 var WLOC_DEFAULT_TARGET = {
-  longitude: 113.577,
+  longitude: 113.57,
   latitude: 30.94,
   accuracy: 25
 };
